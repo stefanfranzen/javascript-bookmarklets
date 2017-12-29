@@ -1,4 +1,4 @@
-# Javascript-booklets
+# Javascript-booklets [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A collection of javascript scripts that can aid in testing or with repetitive tasks on a website.
 
@@ -30,6 +30,14 @@ Javascript booklets is just one little piece in that puzzle.
 - Browse to the page you want to run your javascript-booklet on
 - Click on your new fancy booklet button
 
+## Contribution
+
+Everyone are welcome to create PR with your own usecases. 
+
+You can also reach me here:
+- Email: s.jansson@gmail.com
+- International DevOps-slack community<a href="https://goo.gl/ozDDyL">https://goo.gl/ozDDyL</a> 
+
 ## License
 
-MIT license
+This project is licensed under the [MIT License](LICENSE.md)
