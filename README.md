@@ -20,24 +20,6 @@ I constantly seek ways to improve quality and the efficiency in minimum time, ef
 
 Javascript booklets is just one little piece in that puzzle.
 
-## Prerequisites
-
-- Created your custom javascript-booklet, inspired by this repositorys examples
-- Google Chrome installed (I will not cover other browsers)
-- Show bookmarks bar activated
-
-## Installation of booklets
-
-- Right-click your bookmarks bar and choose `"Add folder"` and name it "Booklets"
-- Right-click on your folder and choose `"Add Page"`, a popup will open
-- Describe shortly what your javascript booklets does in `"Name"`
-- Paste your javascript-booklet-code into `"URL"`
-
-## Usage
-
-- Browse to the page you want to run your javascript-booklet on
-- Click on your new fancy booklet button
-
 ## Contribution
 
 I appreciate anyone filing ideas for scripts as an issue, or submitting your own scripts as pull requests. Wether it's a single actions or a complete suite of actions, all contributions or feedback are welcome.  
@@ -45,6 +27,24 @@ I appreciate anyone filing ideas for scripts as an issue, or submitting your own
 If you'd rather go through other channels, you can reach me at:
 - Email: s.jansson@gmail.com
 - International DevOps-slack community<a href="https://goo.gl/ozDDyL">https://goo.gl/ozDDyL</a> 
+
+## Prerequisites 
+
+- Created your custom javascript-booklet, inspired by this repositorys examples
+- Google Chrome installed (I will not cover other browsers)
+- Show bookmarks bar activated
+
+## Setup of booklets
+
+- Right-click your bookmarks bar and choose `"Add folder"` and name it "Booklets"
+- Right-click on your folder and choose `"Add Page"`, a popup will open
+- Describe shortly what your javascript booklets does in `"Name"`
+- Paste your javascript-booklet-code into `"URL"`
+
+## Using your booklet
+
+- Browse to the page you want to run your javascript-booklet on
+- Click on your new booklet-button in the bookmark bar
 
 ## License
 
