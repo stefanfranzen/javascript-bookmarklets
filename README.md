@@ -26,7 +26,7 @@ I appreciate anyone filing ideas for scripts as an issue, or submitting your own
 
 If you'd rather go through other channels, you can reach me at:
 - Email: s.jansson@gmail.com
-- International DevOps-slack community<a href="https://goo.gl/ozDDyL">https://goo.gl/ozDDyL</a> 
+- International DevOps-slack community <a href="https://goo.gl/ozDDyL">https://goo.gl/ozDDyL</a> 
 
 ## Prerequisites 
 
