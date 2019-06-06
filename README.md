@@ -25,7 +25,7 @@ Javascript bookmarklets is just one little piece in that puzzle.
 I appreciate anyone filing ideas for scripts as an issue, or submitting your own scripts as pull requests. Wether it's a single actions or a complete suite of actions, all contributions or feedback are welcome.  
 
 If you'd rather go through other channels, you can reach me at:
-- Email: s.jansson@gmail.com
+- Email: stefan.franzn@gmail.com
 - International DevOps-slack community <a href="https://goo.gl/ozDDyL">https://goo.gl/ozDDyL</a> 
 
 ## Prerequisites 
